@@ -1,5 +1,3 @@
-# my-projects
-
 # Projetos de Aprendizado em Python e SQL
 
 Bem-vindo ao repositório de projetos de aprendizado em Python e SQL! Neste repositório, 
