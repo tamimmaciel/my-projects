@@ -1,7 +1,7 @@
 # Projetos de Aprendizado em Python e SQL
 
 Bem-vindo ao repositório de projetos de aprendizado em Python e SQL! Neste repositório, 
-você encontrará uma coleção de projetos desenvolvidos para aprimorar suas habilidades em programação Python e manipulação de bancos de dados SQL. 
+você encontrará uma coleção de projetos desenvolvidos para aprimorar minhas habilidades em programação Python e manipulação de bancos de dados SQL. 
 Cada projeto foi projetado para abordar conceitos específicos e fornecer experiência prática na aplicação desses conceitos.
 
 ## Estrutura do Repositório
